@@ -1,2 +1,7 @@
 xxx
+<<<<<<< HEAD
 sadfasd
+=======
+sadfasd
+sdds
+>>>>>>> parent of 8d13df5... 文件删除
